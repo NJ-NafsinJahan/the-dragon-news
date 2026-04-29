@@ -11,16 +11,17 @@ const news = [
   {
     id: 2,
     title:
-      " Breaking News:  Next.js 15 Introduces Faster Server Components and Routing",
+      " Breaking News:  Next.js 15 Introduces - Faster Server Components and Routing !",
   },
   {
     id: 3,
     title:
-      "Breaking News:  JavaScript Remains the Most Popular Programming Language in 2026",
+      "Breaking News:  JavaScript - Remains the Most Popular Programming Language in 2026 !",
   },
   {
     id: 4,
-    title: "Breaking News:  AI Tools Changing the Future of Web Development",
+    title:
+      "Breaking News:  AI Tools Changing the Future of - Web Development !",
   },
 ];
 
